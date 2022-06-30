@@ -1,0 +1,6 @@
+{"intents":[
+  {"tag": "greeting","patterns":["hello","hi","hey","good day","whats's up?","how is it going?"],"responses":["hi","hey","hello","what can  I do for you?"],"contexts":["greeting"]},
+  {"tag": "goodbye","patterns":["bye","goodbye","see you later","good bye","see you soon"],"responses":["bye","goodbye","see you later","good bye","see you soon"],"contexts":["goodbye"]},
+  {"tag": "thanks","patterns":["thanks","thank you"],"responses":["you're welcome","no problem"],"contexts":["thanks"]},
+  {"tag": "default","patterns":["default"],"responses":["default"],"contexts":["default"]}
+]}
